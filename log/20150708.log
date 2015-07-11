@@ -1,0 +1,121 @@
+
+[Wed, 08 Jul 2015 19:29:16 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(28): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Wed, 08 Jul 2015 20:03:51 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 20:03:54 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 20:04:00 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 20:05:14 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 20:06:00 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 20:06:30 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 20:07:19 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 20:35:02 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 22:16:11 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 22:19:05 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 22:19:54 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 22:20:25 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 22:20:57 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 22:21:23 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 22:22:52 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 22:40:15 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 22:40:44 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 23:28:59 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1
+[Wed, 08 Jul 2015 23:29:02 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1

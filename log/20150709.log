@@ -1,0 +1,133 @@
+
+[Thu, 09 Jul 2015 01:41:17 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(28): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 01:42:56 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 20' at line 1
+[Thu, 09 Jul 2015 01:44:22 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(29): PDOStatement->execute()
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(14): EntradaModel->Ultimos()
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Index()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 20' at line 1
+[Thu, 09 Jul 2015 03:50:52 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(221): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(22): EntradaModel->Lectura('4')
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 03:50:52 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(73): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(23): EntradaModel->Obtener('4')
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:26:00 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(221): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(22): EntradaModel->Lectura('4')
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:26:00 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(73): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(23): EntradaModel->Obtener('4')
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:27:47 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(221): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(22): EntradaModel->Lectura('4')
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:27:47 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(73): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(23): EntradaModel->Obtener('4')
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:28:44 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(221): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(22): EntradaModel->Lectura('undefined')
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:28:44 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(73): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(23): EntradaModel->Obtener('undefined')
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:29:34 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(221): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(22): EntradaModel->Lectura('undefined')
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:29:34 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(73): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(23): EntradaModel->Obtener('undefined')
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:30:10 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(221): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(22): EntradaModel->Lectura('undefined')
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:30:10 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(73): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(23): EntradaModel->Obtener('undefined')
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:31:18 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(221): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(22): EntradaModel->Lectura(NULL)
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:32:51 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(221): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(22): EntradaModel->Lectura(NULL)
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:41:51 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(221): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(22): EntradaModel->Lectura(NULL)
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:46:27 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(221): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(22): EntradaModel->Lectura(NULL)
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:48:42 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(221): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(22): EntradaModel->Lectura(NULL)
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:49:29 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(221): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(22): EntradaModel->Lectura(NULL)
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist
+[Thu, 09 Jul 2015 04:49:58 +0200] #0 C:\xampp\htdocs\cms\model\entradamodel.php(221): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cms\controller\iniciocontroller.php(22): EntradaModel->Lectura(NULL)
+#2 C:\xampp\htdocs\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\xampp\htdocs\cms\index.php(23): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'epgundxr_grupo1.entrada' doesn't exist

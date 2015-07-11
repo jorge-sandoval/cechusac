@@ -1,0 +1,31 @@
+
+[Tue, 27 May 2014 16:56:39 +0000] #0 C:\wamp\www\cms\model\archivomodel.php(45): PDOStatement->execute(Array)
+#1 C:\wamp\www\cms\controller\admin\archivocontroller.php(24): ArchivoModel->Registrar(NULL)
+#2 C:\wamp\www\cms\core\frontcontroller.php(73): ArchivoController->Upload()
+#3 C:\wamp\www\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Peso' cannot be null
+[Tue, 27 May 2014 17:26:52 +0000] #0 C:\wamp\www\cms\model\entradamodel.php(220): PDOStatement->execute(Array)
+#1 C:\wamp\www\cms\controller\iniciocontroller.php(21): EntradaModel->Lectura('3')
+#2 C:\wamp\www\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\wamp\www\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE entrada SET lectura = lectura +1 WHERE id = NULL' at line 1
+[Tue, 27 May 2014 17:27:13 +0000] #0 C:\wamp\www\cms\model\entradamodel.php(220): PDOStatement->execute(Array)
+#1 C:\wamp\www\cms\controller\iniciocontroller.php(21): EntradaModel->Lectura('3')
+#2 C:\wamp\www\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\wamp\www\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE entrada SET lectura = lectura +1 WHERE id = '3'' at line 1
+[Tue, 27 May 2014 17:27:16 +0000] #0 C:\wamp\www\cms\model\entradamodel.php(220): PDOStatement->execute(Array)
+#1 C:\wamp\www\cms\controller\iniciocontroller.php(21): EntradaModel->Lectura('4')
+#2 C:\wamp\www\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\wamp\www\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE entrada SET lectura = lectura +1 WHERE id = '4'' at line 1
+[Tue, 27 May 2014 17:28:10 +0000] #0 C:\wamp\www\cms\model\entradamodel.php(220): PDOStatement->execute(Array)
+#1 C:\wamp\www\cms\controller\iniciocontroller.php(21): EntradaModel->Lectura('8')
+#2 C:\wamp\www\cms\core\frontcontroller.php(73): InicioController->Entrada()
+#3 C:\wamp\www\cms\index.php(21): FrontController->__CONSTRUCT()
+#4 {main}
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UDPATE entrada SET lectura = lectura +1 WHERE id = '8'' at line 1
